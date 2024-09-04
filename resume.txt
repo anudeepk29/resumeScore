@@ -1,0 +1,3 @@
+A highly skilled software engineer with extensive experience in Python programming,
+machine learning, and data analysis. Proficient in cloud services including AWS and Azure.
+Familiar with TensorFlow and PyTorch for building machine learning models
