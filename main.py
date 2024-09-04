@@ -6,11 +6,11 @@ from sklearn.metrics.pairwise import cosine_similarity
 model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
 
 # Sample Job Description and Resume
-job_description_file = "/job_description.txt"
+job_description_file = "./job_description.txt"
 with open(job_description_file, 'r') as f:
   job_description = f.read()
 
-resume_file = "/resume.txt"
+resume_file = "./resume.txt"
 with open(resume_file, 'r') as f:
   resume = f.read()
 
